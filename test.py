@@ -40,8 +40,8 @@ async def fetch_chat_administrators(channel_id):
 # Создаем клавиатуру
 url_button_1 = InlineKeyboardButton(
     text='КУПИТЬ',
-    url='https://t.me/wtimew'd
-)sudo cp -r /root/.ssh/authorized_keys /home/mike/.ssh/authorized_keys
+    url='https://t.me/odil552558'
+)
 keyboard = InlineKeyboardMarkup(inline_keyboard=[[url_button_1]])
 
 
