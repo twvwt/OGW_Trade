@@ -1,0 +1,6992 @@
+[
+    {
+        "_id": 1,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Natural",
+        "price": 103900,
+        "new_price": 118900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 2,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Natural",
+        "price": 102500,
+        "new_price": 117500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 3,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Desert",
+        "price": 103600,
+        "new_price": 118600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 4,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Desert",
+        "price": 103000,
+        "new_price": 118000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 5,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 White",
+        "price": 104700,
+        "new_price": 119700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 6,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 White",
+        "price": 106600,
+        "new_price": 121600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 7,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Black",
+        "price": 104700,
+        "new_price": 119700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 8,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Black",
+        "price": 103000,
+        "new_price": 118000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 9,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 128 Black",
+        "price": 107000,
+        "new_price": 122000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 10,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 256 Natural",
+        "price": 116600,
+        "new_price": 131600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 11,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 256 Desert",
+        "price": 115000,
+        "new_price": 130000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 12,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 256 White",
+        "price": 116600,
+        "new_price": 131600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 13,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 256 Black",
+        "price": 113700,
+        "new_price": 128700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 14,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 Natural",
+        "price": 133900,
+        "new_price": 148900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 15,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 Natural",
+        "price": 132000,
+        "new_price": 147000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 16,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 Desert",
+        "price": 133900,
+        "new_price": 148900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 17,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 Desert",
+        "price": 132000,
+        "new_price": 147000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 18,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 White",
+        "price": 132500,
+        "new_price": 147500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 19,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 512 Black",
+        "price": 138800,
+        "new_price": 153800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 20,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Natural",
+        "price": 149000,
+        "new_price": 164000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 21,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Natural",
+        "price": 144000,
+        "new_price": 159000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 22,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Desert",
+        "price": 149400,
+        "new_price": 164400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 23,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Desert",
+        "price": 145000,
+        "new_price": 160000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 24,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB White",
+        "price": 146000,
+        "new_price": 161000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 25,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Black",
+        "price": 149000,
+        "new_price": 164000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 26,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro",
+        "name": "iPhone 16 Pro 1TB Black",
+        "price": 145000,
+        "new_price": 160000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 27,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 Natural",
+        "price": 127200,
+        "new_price": 142200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 28,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 Natural",
+        "price": 123500,
+        "new_price": 138500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 29,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 Desert",
+        "price": 123000,
+        "new_price": 138000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 30,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 Desert",
+        "price": 123000,
+        "new_price": 138000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 31,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 White",
+        "price": 125400,
+        "new_price": 140400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 32,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 White",
+        "price": 126600,
+        "new_price": 141600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 33,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 White",
+        "price": 122000,
+        "new_price": 137000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 34,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 256 Black",
+        "price": 126200,
+        "new_price": 141200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 35,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 512 Natural",
+        "price": 143500,
+        "new_price": 158500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 36,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 512 Desert",
+        "price": 144000,
+        "new_price": 159000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 37,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 512 White",
+        "price": 143500,
+        "new_price": 158500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 38,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 512 Black",
+        "price": 148400,
+        "new_price": 163400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 39,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 512 Black",
+        "price": 145000,
+        "new_price": 160000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 40,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 1TB Natural",
+        "price": 165000,
+        "new_price": 180000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 41,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 1TB Desert",
+        "price": 177000,
+        "new_price": 192000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 42,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 1TB White",
+        "price": 165000,
+        "new_price": 180000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 43,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Pro Max",
+        "name": "iPhone 16 Pro Max 1TB Black",
+        "price": 167000,
+        "new_price": 182000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 44,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Teal",
+        "price": 77800,
+        "new_price": 92800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 45,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Teal",
+        "price": 76900,
+        "new_price": 91900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 46,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 White",
+        "price": 77200,
+        "new_price": 92200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 47,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Black",
+        "price": 78000,
+        "new_price": 93000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 48,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Pink",
+        "price": 77200,
+        "new_price": 92200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 49,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Pink",
+        "price": 77000,
+        "new_price": 92000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 50,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Ultramarine",
+        "price": 77000,
+        "new_price": 92000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 51,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 128 Ultramarine",
+        "price": 76500,
+        "new_price": 91500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 52,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Ultramarine",
+        "price": 89700,
+        "new_price": 104700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 53,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Ultramarine",
+        "price": 87500,
+        "new_price": 102500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 54,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Ultramarine",
+        "price": 86000,
+        "new_price": 101000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 55,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Teal",
+        "price": 88900,
+        "new_price": 103900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 56,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Black",
+        "price": 89000,
+        "new_price": 104000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 57,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Black",
+        "price": 86000,
+        "new_price": 101000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 58,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 256 Pink",
+        "price": 91500,
+        "new_price": 106500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 59,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 512 Black",
+        "price": 115500,
+        "new_price": 130500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 60,
+        "category": "iPhone",
+        "postcategory": "iPhone 16",
+        "name": "iPhone 16 512 Black",
+        "price": 107000,
+        "new_price": 122000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 61,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Ultramarine",
+        "price": 90600,
+        "new_price": 105600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 62,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Ultramarine",
+        "price": 87000,
+        "new_price": 102000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 63,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Ultramarine",
+        "price": 86500,
+        "new_price": 101500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 64,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Teal",
+        "price": 90600,
+        "new_price": 105600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 65,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Teal",
+        "price": 87000,
+        "new_price": 102000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 66,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 White",
+        "price": 90600,
+        "new_price": 105600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 67,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 White",
+        "price": 87000,
+        "new_price": 102000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 68,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 White",
+        "price": 86500,
+        "new_price": 101500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 69,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Black",
+        "price": 90200,
+        "new_price": 105200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 70,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 128 Black",
+        "price": 88000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 71,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 256 Teal",
+        "price": 105500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 72,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 256 White",
+        "price": 105500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 73,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 256 Pink",
+        "price": 105500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 74,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 256 Black",
+        "price": 105500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 75,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 256 Ultimarine",
+        "price": 98500,
+        "new_price": 113500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 76,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 plus 512 Black",
+        "price": 119509,
+        "new_price": 134509,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 77,
+        "category": "iPhone",
+        "postcategory": "iPhone 16 Plus",
+        "name": "iPhone 16 Plus 512 White",
+        "price": 117500,
+        "new_price": 132500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 78,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 128 Natural",
+        "price": 96400,
+        "new_price": 106400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 79,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 128 Natural",
+        "price": 98500,
+        "new_price": 108500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 80,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 128 White",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 81,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 128 Blue",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 82,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 128 Black",
+        "price": 100500,
+        "new_price": 110500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 83,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 256 Blue",
+        "price": 110900,
+        "new_price": 120900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 84,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 256 White",
+        "price": 111900,
+        "new_price": 121900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 85,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 256 Natural",
+        "price": 109500,
+        "new_price": 119500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 86,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 Blue",
+        "price": 118900,
+        "new_price": 128900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 87,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 Blue",
+        "price": 117500,
+        "new_price": 127500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 88,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 Black",
+        "price": 119800,
+        "new_price": 129800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 89,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 White",
+        "price": 119900,
+        "new_price": 129900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 90,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 pro 512 White",
+        "price": 128000,
+        "new_price": 138000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 91,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 Natural",
+        "price": 119900,
+        "new_price": 129900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 92,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 512 Natural",
+        "price": 110000,
+        "new_price": 120000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 93,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 1TB Black",
+        "price": 121500,
+        "new_price": 131500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 94,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 1TB Natural",
+        "price": 121500,
+        "new_price": 131500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 95,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro",
+        "name": "iPhone 15 Pro 1TB Blue",
+        "price": 121700,
+        "new_price": 131700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 96,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Black",
+        "price": 112500,
+        "new_price": 122500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 97,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Black",
+        "price": 109300,
+        "new_price": 119300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 98,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Blue",
+        "price": 110500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 99,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Blue",
+        "price": 108400,
+        "new_price": 118400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 100,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 White",
+        "price": 112500,
+        "new_price": 122500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 101,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Natural",
+        "price": 110500,
+        "new_price": 120500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 102,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 256 Natural",
+        "price": 90000,
+        "new_price": 100000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 103,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 Blue",
+        "price": 122000,
+        "new_price": 132000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 104,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 Blue",
+        "price": 121700,
+        "new_price": 131700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 105,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 Black",
+        "price": 123300,
+        "new_price": 133300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 106,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 Black",
+        "price": 122000,
+        "new_price": 132000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 107,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 White",
+        "price": 121200,
+        "new_price": 131200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 108,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 512 Natural",
+        "price": 121700,
+        "new_price": 131700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 109,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1TB Black",
+        "price": 129800,
+        "new_price": 139800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 110,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1TB Black",
+        "price": 128500,
+        "new_price": 138500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 111,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1TB Blue",
+        "price": 132000,
+        "new_price": 142000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 112,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1TB Blue",
+        "price": 128500,
+        "new_price": 138500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 113,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1Tb White",
+        "price": 135000,
+        "new_price": 145000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 114,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Pro Max",
+        "name": "iPhone 15 Pro Max 1Tb White",
+        "price": 132000,
+        "new_price": 142000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 115,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 128 Black",
+        "price": 65900,
+        "new_price": 75900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 116,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 128 Blue",
+        "price": 64900,
+        "new_price": 74900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 117,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 128 Green",
+        "price": 63900,
+        "new_price": 73900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 118,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 128 Pink",
+        "price": 63900,
+        "new_price": 73900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 119,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 256 Green",
+        "price": 85700,
+        "new_price": 95700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 120,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 256 Black-",
+        "price": 85700,
+        "new_price": 95700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 121,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 256 Pink-",
+        "price": 85700,
+        "new_price": 95700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 122,
+        "category": "iPhone",
+        "postcategory": "iPhone 15",
+        "name": "iPhone 15 256 Blue -",
+        "price": 85700,
+        "new_price": 95700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 123,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Plus",
+        "name": "iPhone 15 Plus 128 Black",
+        "price": 71700,
+        "new_price": 81700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 124,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Plus",
+        "name": "iPhone 15 Plus 128 Pink",
+        "price": 71700,
+        "new_price": 81700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 125,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Plus",
+        "name": "iPhone 15 Plus 128 Green",
+        "price": 73500,
+        "new_price": 83500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 126,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Plus",
+        "name": "iPhone 15 Plus 128 Blue",
+        "price": 71700,
+        "new_price": 81700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 127,
+        "category": "iPhone",
+        "postcategory": "iPhone 15 Plus",
+        "name": "iPhone 15 Plus 128 Yellow",
+        "price": 73500,
+        "new_price": 83500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 128,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Blue",
+        "price": 54600,
+        "new_price": 62600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 129,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Black",
+        "price": 56500,
+        "new_price": 64500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 130,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Purple",
+        "price": 57700,
+        "new_price": 65700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 131,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Starlight",
+        "price": 54700,
+        "new_price": 62700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 132,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Yellow",
+        "price": 56700,
+        "new_price": 64700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 133,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 128 Blue",
+        "price": 44000,
+        "new_price": 52000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 134,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 256 Midnight",
+        "price": 75000,
+        "new_price": 83000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 135,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 512 Black",
+        "price": 81500,
+        "new_price": 89500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 136,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 512 Yellow",
+        "price": 78500,
+        "new_price": 86500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 137,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 128 Midnight",
+        "price": 65700,
+        "new_price": 73700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 138,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 128 Blue",
+        "price": 65700,
+        "new_price": 73700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 139,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 128 Red",
+        "price": 59000,
+        "new_price": 67000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 140,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 128 Yellow",
+        "price": 55800,
+        "new_price": 63800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 141,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Black",
+        "price": 78800,
+        "new_price": 86800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 142,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Blue",
+        "price": 76900,
+        "new_price": 84900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 143,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Purple",
+        "price": 77700,
+        "new_price": 85700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 144,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Red",
+        "price": 76900,
+        "new_price": 84900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 145,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Red",
+        "price": 65300,
+        "new_price": 73300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 146,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 256 Yellow",
+        "price": 76900,
+        "new_price": 84900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 147,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Plus 512 Yellow",
+        "price": 86000,
+        "new_price": 94000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 148,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Pro Max 512 Silver",
+        "price": 119200,
+        "new_price": 127200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 149,
+        "category": "iPhone",
+        "postcategory": "iPhone 14 Pro Max",
+        "name": "iPhone 14 Pro Max 512 Gold",
+        "price": 119300,
+        "new_price": 127300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 150,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Blue",
+        "price": 48500,
+        "new_price": 54500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 151,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Green",
+        "price": 48900,
+        "new_price": 54900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 152,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Starlight",
+        "price": 48700,
+        "new_price": 54700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 153,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Midnight",
+        "price": 49500,
+        "new_price": 55500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 154,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Pink",
+        "price": 52000,
+        "new_price": 58000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 155,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 128 Red",
+        "price": 52200,
+        "new_price": 58200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 156,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 256 Green",
+        "price": 62600,
+        "new_price": 68600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 157,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 256 Red",
+        "price": 59500,
+        "new_price": 65500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 158,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 256 Midnight",
+        "price": 62800,
+        "new_price": 68800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 159,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 256 Pink",
+        "price": 63600,
+        "new_price": 69600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 160,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 256 Starlight",
+        "price": 63700,
+        "new_price": 69700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 161,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 Black",
+        "price": 67700,
+        "new_price": 73700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 162,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 Green",
+        "price": 67700,
+        "new_price": 73700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 163,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 Pink",
+        "price": 67700,
+        "new_price": 73700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 164,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 Red",
+        "price": 63900,
+        "new_price": 69900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 165,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 White",
+        "price": 67900,
+        "new_price": 73900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 166,
+        "category": "iPhone",
+        "postcategory": "iPhone 13",
+        "name": "iPhone 13 512 Blue  (RFB Ориг Упаковка)",
+        "price": 59900,
+        "new_price": 65900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 167,
+        "category": "iPhone",
+        "postcategory": "iPhone 12 Mini",
+        "name": "iPhone 12 Mini 64 Green (RFB Ориг. Упаковка)",
+        "price": 35900,
+        "new_price": 40900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 168,
+        "category": "iPhone",
+        "postcategory": "iPhone 12 Mini",
+        "name": "iPhone 12 Mini 128 Green -",
+        "price": 48000,
+        "new_price": 53000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 169,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE2 64 Black -",
+        "price": 25500,
+        "new_price": 30500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 170,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE2 64 White -",
+        "price": 25500,
+        "new_price": 30500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 171,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE2 128 Black -",
+        "price": 32500,
+        "new_price": 37500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 172,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE2 128 White -",
+        "price": 32500,
+        "new_price": 37500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 173,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE2 128 Red -",
+        "price": 30500,
+        "new_price": 35500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 174,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE 3 64 Black",
+        "price": 31300,
+        "new_price": 36300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 175,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE 3 64 Red",
+        "price": 31200,
+        "new_price": 36200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 176,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE 3 128 Red",
+        "price": 41700,
+        "new_price": 46700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 177,
+        "category": "iPhone",
+        "postcategory": "iPhone SE",
+        "name": "iPhone SE 3 256 Red",
+        "price": 44000,
+        "new_price": 49000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 178,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 64 Green",
+        "price": 39900,
+        "new_price": 44900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 179,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 64 White",
+        "price": 40500,
+        "new_price": 45500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 180,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 128 Black",
+        "price": 44800,
+        "new_price": 49800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 181,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 128 Purple",
+        "price": 44900,
+        "new_price": 49900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 182,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 128 Green",
+        "price": 44400,
+        "new_price": 49400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 183,
+        "category": "iPhone",
+        "postcategory": "iPhone 12",
+        "name": "iPhone 12 256 Black",
+        "price": 51000,
+        "new_price": 56000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 184,
+        "category": "iPhone",
+        "postcategory": "iPhone 11",
+        "name": "iPhone 11 64 Black",
+        "price": 33600,
+        "new_price": 38600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 185,
+        "category": "iPhone",
+        "postcategory": "iPhone 11",
+        "name": "iPhone 11 64 White",
+        "price": 34500,
+        "new_price": 39500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 186,
+        "category": "iPhone",
+        "postcategory": "iPhone 11",
+        "name": "iPhone 11 128 Black",
+        "price": 40000,
+        "new_price": 45000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 187,
+        "category": "iPhone",
+        "postcategory": "iPhone 11",
+        "name": "iPhone 11 128 white",
+        "price": 40400,
+        "new_price": 45400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 188,
+        "category": "iPhone",
+        "postcategory": "iPhone 12 Pro",
+        "name": "iPhone 12 Pro Max 512  Pacific Blue RFB",
+        "price": 67000,
+        "new_price": 72000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 189,
+        "category": "MacBook",
+        "postcategory": "Magic Mouse",
+        "name": "🐭Magic Mouse  Black",
+        "price": 9000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 190,
+        "category": "MacBook",
+        "postcategory": "Magic Mouse",
+        "name": "🐭Magic Mouse White",
+        "price": 8000,
+        "new_price": 9000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 191,
+        "category": "MacBook",
+        "postcategory": "MacBook Pro 14 M3 (2023)",
+        "name": "MacBook Pro (MTL73) 14 512  (2023) Grey (M3 , 8 Gb, 512Gb SSD)",
+        "price": 133900,
+        "new_price": 148900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 192,
+        "category": "MacBook",
+        "postcategory": "MacBook Pro 14 M3 (2023)",
+        "name": "MacBook (MRX33)  Pro 14 M3 PRO 18/512GB Black",
+        "price": 193500,
+        "new_price": 208500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 193,
+        "category": "MacBook",
+        "postcategory": "MacBook Pro 14 M3 (2023)",
+        "name": "MacBook (MRX63)  Pro 14 M3 PRO 18/512GB Silver",
+        "price": 194500,
+        "new_price": 209500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 194,
+        "category": "MacBook",
+        "postcategory": "MacBook Pro 13 М2 2022",
+        "name": "Apple MacBook Pro 16 M1 Pro/16/512GB Space Gray (MK183)",
+        "price": 140500,
+        "new_price": 155500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 195,
+        "category": "MacBook",
+        "postcategory": "MacBook Pro 13 М2 2022",
+        "name": "Apple MacBook Pro 16 (MMQW3) (M1 Max 10/32/64/4TB) Silver",
+        "price": 364000,
+        "new_price": 379000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 196,
+        "category": "MacBook",
+        "postcategory": "Magic Mouse",
+        "name": "🐭Magic Mouse  Black",
+        "price": 9700,
+        "new_price": 10700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 197,
+        "category": "MacBook",
+        "postcategory": "Magic Mouse",
+        "name": "🐭Magic Mouse White",
+        "price": 7800,
+        "new_price": 8800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 198,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М1 13 (2020)",
+        "name": "Air 13 MGN63 (M1,8/256) Gray",
+        "price": 66900,
+        "new_price": 81900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 199,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М1 13 (2020)",
+        "name": "Air 13 MGND3 (M1,8/256) Gold",
+        "price": 69500,
+        "new_price": 84500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 200,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М1 13 (2020)",
+        "name": "Air 13 MGN93 (M1,8/256) Silver",
+        "price": 69900,
+        "new_price": 84900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 201,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М2 13 (2022)",
+        "name": "MacBook Air 13 256  (MLY33) Midnight",
+        "price": 82000,
+        "new_price": 97000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 202,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М2 13 (2022)",
+        "name": "MacBook Air 13 256  (MLXW3) Gray",
+        "price": 83600,
+        "new_price": 98600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 203,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М2 13 (2022)",
+        "name": "MacBook Air 13 256  (MLY13) Starlight",
+        "price": 82000,
+        "new_price": 97000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 204,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М2 13 (2022)",
+        "name": "MacBook Air 13 256  (MLXY3) Silver",
+        "price": 82000,
+        "new_price": 97000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 205,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "Air 13 M3 8/256 Midnight MRXV3",
+        "price": 99900,
+        "new_price": 114900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 206,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "Air 13 M3 8/256 Starlight  MRXT3",
+        "price": 99900,
+        "new_price": 114900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 207,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "Air 13 M3 8/256 Silver  MRXQ3",
+        "price": 99900,
+        "new_price": 114900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 208,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "Air 13 M3 8/256 Space Gray MRXN3",
+        "price": 99900,
+        "new_price": 114900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 209,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "MacBook Air 13 M3 16/512 Starlight MXCU3",
+        "price": 135500,
+        "new_price": 150500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 210,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "MacBook Air 13 M3 16/512 Gray MXCR3",
+        "price": 136000,
+        "new_price": 151000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 211,
+        "category": "MacBook",
+        "postcategory": "MacBook Air М3 13 (2024)",
+        "name": "MacBook Air 13 M3 16/512 Midnight MXCV3",
+        "price": 135500,
+        "new_price": 150500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 212,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard 12.9 White",
+        "price": 25900,
+        "new_price": 26900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 213,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard 12.9 Black",
+        "price": 25900,
+        "new_price": 26900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 214,
+        "category": "iPad",
+        "postcategory": "iPad 9",
+        "name": "IPad 9 64 Gray WIFI",
+        "price": 25800,
+        "new_price": 35800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 215,
+        "category": "iPad",
+        "postcategory": "iPad 9",
+        "name": "IPad 9 64 Silver WIFI",
+        "price": 25800,
+        "new_price": 35800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 216,
+        "category": "iPad",
+        "postcategory": "iPad 9",
+        "name": "IPad 9 64 Gray LTE",
+        "price": 34900,
+        "new_price": 44900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 217,
+        "category": "iPad",
+        "postcategory": "iPad 9",
+        "name": "IPad 9 64 Silver LTE",
+        "price": 37000,
+        "new_price": 47000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 218,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Blue Wi-Fi",
+        "price": 49500,
+        "new_price": 59500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 219,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Grey Wi-Fi",
+        "price": 50500,
+        "new_price": 60500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 220,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Purple Wi-Fi",
+        "price": 49800,
+        "new_price": 59800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 221,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Starlight Wi-Fi",
+        "price": 50500,
+        "new_price": 60500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 222,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Blue LTE",
+        "price": 77000,
+        "new_price": 87000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 223,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Purple LTE",
+        "price": 77000,
+        "new_price": 87000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 224,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 128 Starlight LTE",
+        "price": 77000,
+        "new_price": 87000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 225,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 256 Grey Wi-Fi",
+        "price": 65000,
+        "new_price": 75000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 226,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 256  Purple Wi-Fi",
+        "price": 63000,
+        "new_price": 73000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 227,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 256  Starlight Wi-Fi",
+        "price": 63000,
+        "new_price": 73000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 228,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 512 Grey Wi-Fi",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 229,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 512 Purple Wi-Fi",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 230,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 512 Blue Wi-Fi",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 231,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 7 512 Starlight Wi-Fi",
+        "price": 93000,
+        "new_price": 103000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 232,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 64GB Gray WIFI",
+        "price": 37500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 233,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 64GB Pink WIFI",
+        "price": 37500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 234,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 64GB Starlight WIFI",
+        "price": 37500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 235,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 256GB Pink WIFI",
+        "price": 53700,
+        "new_price": 63700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 236,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 256GB Purple WIFI",
+        "price": 53700,
+        "new_price": 63700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 237,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 256GB Starlight WIFI",
+        "price": 53700,
+        "new_price": 63700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 238,
+        "category": "iPad",
+        "postcategory": "iPad MINI 6 7",
+        "name": "iPad Mini 6 256GB Pink LTE",
+        "price": 72900,
+        "new_price": 82900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 239,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 64 Silver Wi-Fi -",
+        "price": 36000,
+        "new_price": 46000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 240,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 64 Pink Wi-Fi -",
+        "price": 36300,
+        "new_price": 46300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 241,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 64 Blue Wi-Fi -",
+        "price": 36000,
+        "new_price": 46000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 242,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 64 Pink LTE",
+        "price": 45000,
+        "new_price": 55000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 243,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 64 Yellow LTE",
+        "price": 45300,
+        "new_price": 55300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 244,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 256 GB Blue WIFI",
+        "price": 50900,
+        "new_price": 60900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 245,
+        "category": "iPad",
+        "postcategory": "iPad 10",
+        "name": "iPad 10 256 GB Silver Wi-Fi",
+        "price": 50900,
+        "new_price": 60900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 246,
+        "category": "iPad",
+        "postcategory": "iPad Pro 12.9 RFB",
+        "name": "iPad IPad Pro 12.9  M2 128 Silver Wi-Fi -",
+        "price": 69500,
+        "new_price": 79500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 247,
+        "category": "iPad",
+        "postcategory": "iPad Pro 12.9 RFB",
+        "name": "iPad IPad Pro 12.9  256 Gray WIFI (2021) RFB",
+        "price": 81000,
+        "new_price": 91000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 248,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard Black iPad Pro 11",
+        "price": 35000,
+        "new_price": 36000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 249,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "Magic Keyboard Black iPad Pro 11",
+        "price": 35000,
+        "new_price": 45000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 250,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard White iPad Pro 11",
+        "price": 29000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 251,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "Magic Keyboard White iPad Pro 11",
+        "price": 29000,
+        "new_price": 39000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 252,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard Black iPad Pro 13",
+        "price": 45000,
+        "new_price": 46000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 253,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "Magic Keyboard Black iPad Pro 13",
+        "price": 45000,
+        "new_price": 55000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 254,
+        "category": "iPad",
+        "postcategory": "Pencil",
+        "name": "Magic Keyboard White iPad Pro 13 -",
+        "price": 32400,
+        "new_price": 33400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 255,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "Magic Keyboard White iPad Pro 13 -",
+        "price": 32400,
+        "new_price": 42400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 256,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 M2 (2024)128 Wi Blue",
+        "price": 59700,
+        "new_price": 69700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 257,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 128 M2 (2024)Wi Grey",
+        "price": 59900,
+        "new_price": 69900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 258,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 128 Wi M2 (2024)Purple",
+        "price": 59000,
+        "new_price": 69000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 259,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 128 Wi  M2 (2024)Starlight",
+        "price": 59900,
+        "new_price": 69900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 260,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 M2 (2024)128 LTE Blue",
+        "price": 79000,
+        "new_price": 89000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 261,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 M2 (2024)128 LTE Grey",
+        "price": 83000,
+        "new_price": 93000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 262,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 128 M2 (2024)LTE Purple",
+        "price": 83900,
+        "new_price": 93900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 263,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 128 M2 (2024)LTE Starlight",
+        "price": 84500,
+        "new_price": 94500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 264,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 256 M2 (2024) Wi Starlight",
+        "price": 73900,
+        "new_price": 83900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 265,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 256 M2 (2024)Wi Blue",
+        "price": 71000,
+        "new_price": 81000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 266,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 256 M2 (2024)Wi Purple",
+        "price": 71300,
+        "new_price": 81300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 267,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 256 M2 (2024)Wi Gray",
+        "price": 71400,
+        "new_price": 81400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 268,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 512 M2 (2024)Wi-Fi Starlight -",
+        "price": 96000,
+        "new_price": 106000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 269,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 512 M2 (2024)Wi-Fi Blue-",
+        "price": 92000,
+        "new_price": 102000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 270,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 512 M2 (2024)Wi-Fi Gray",
+        "price": 92000,
+        "new_price": 102000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 271,
+        "category": "iPad",
+        "postcategory": "iPad Air 11\" (M2)",
+        "name": "iPad Air 11 512 M2 (2024)Wi-Fi Purple",
+        "price": 96000,
+        "new_price": 106000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 272,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 M2 (2024) 128 Wi-Fi Blue",
+        "price": 77500,
+        "new_price": 87500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 273,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 M2 (2024) 128 Wi-Fi Gray",
+        "price": 77500,
+        "new_price": 87500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 274,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 M2 (2024) 128 Wi-Fi Starlig",
+        "price": 77500,
+        "new_price": 87500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 275,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 M2 (2024) 128 Wi-Fi Purple",
+        "price": 77500,
+        "new_price": 87500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 276,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 2024 m2 128 Gray LTE",
+        "price": 81000,
+        "new_price": 91000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 277,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 2024 m2 128 Purple LTE",
+        "price": 81000,
+        "new_price": 91000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 278,
+        "category": "iPad",
+        "postcategory": "iPad Air 13\" (M2) 2024",
+        "name": "iPad Air 13 M2 (2024) 256 Wi-Fi Blue -",
+        "price": 87500,
+        "new_price": 97500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 279,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "iPad Pro 11 M4 (2024) 256 Wi-Fi Black",
+        "price": 101800,
+        "new_price": 111800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 280,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "iPad Pro 11 M4 (2024)256 Wi-Fi Silver",
+        "price": 105500,
+        "new_price": 115500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 281,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "iPad Pro 11 256 M4 (2024)LTE Black",
+        "price": 125000,
+        "new_price": 135000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 282,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "iPad Pro 11 512 Wi-Fi M4 (2024)Black",
+        "price": 122000,
+        "new_price": 132000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 283,
+        "category": "iPad",
+        "postcategory": "iPad Pro 11\" (M4) 2024",
+        "name": "iPad Pro 11 512 Wi-Fi M4 (2024)Silver",
+        "price": 121000,
+        "new_price": 131000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 284,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 256 M4 (2024)Wi-Fi  Silver",
+        "price": 127000,
+        "new_price": 137000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 285,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": " iPad Pro 13 256 M4 (2024)Wi-Fi  Black",
+        "price": 124500,
+        "new_price": 134500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 286,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 M4 (2024)256 LTE Black",
+        "price": 127000,
+        "new_price": 137000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 287,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 M4 (2024)512  WI Black",
+        "price": 149000,
+        "new_price": 159000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 288,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 M4 (2024)512 WI Silver",
+        "price": 152000,
+        "new_price": 162000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 289,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 512 M4 (2024)LTE Black",
+        "price": 155000,
+        "new_price": 165000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 290,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 LTE M4 (2024)1TB Black",
+        "price": 167000,
+        "new_price": 177000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 291,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 LTE M4 (2024)2TB Black",
+        "price": 207000,
+        "new_price": 217000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 292,
+        "category": "iPad",
+        "postcategory": "iPad Pro 13\" (M4) 2024",
+        "name": "iPad Pro 13 LTE M4 (2024)2TB Silver",
+        "price": 207000,
+        "new_price": 217000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 293,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods 2",
+        "price": 10000,
+        "new_price": 15000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 294,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods (3rd Gen) with Lightning Case",
+        "price": 13000,
+        "new_price": 18000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 295,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods (3rd Gen) MagSafe",
+        "price": 13900,
+        "new_price": 18900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 296,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods 4 (2024)",
+        "price": 13800,
+        "new_price": 18800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 297,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods 4 (2024) С шумоподавлением",
+        "price": 17700,
+        "new_price": 22700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 298,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods Pro 2 DEPPO",
+        "price": 3500,
+        "new_price": 8500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 299,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods NEO DEPPO",
+        "price": 2500,
+        "new_price": 7500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 300,
+        "category": "AirPods",
+        "postcategory": "AirPods",
+        "name": "🎧AirPods STEREO MAX DEPPO",
+        "price": 4500,
+        "new_price": 9500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 301,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Gray",
+        "price": 48300,
+        "new_price": 55300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 302,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max White",
+        "price": 47800,
+        "new_price": 54800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 303,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Blue",
+        "price": 46900,
+        "new_price": 53900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 304,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Pink",
+        "price": 46200,
+        "new_price": 53200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 305,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Midnight",
+        "price": 57400,
+        "new_price": 64400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 306,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Starlight",
+        "price": 57400,
+        "new_price": 64400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 307,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Blue",
+        "price": 57000,
+        "new_price": 64000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 308,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Purple",
+        "price": 57000,
+        "new_price": 64000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 309,
+        "category": "AirPods",
+        "postcategory": "AirPods Max",
+        "name": "🎧AirPods Max Orange",
+        "price": 57000,
+        "new_price": 64000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 310,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Лайт Фиолетовый",
+        "price": 5600,
+        "new_price": 20600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 311,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Лайт Бежевый",
+        "price": 5600,
+        "new_price": 20600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 312,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Лайт Желтый",
+        "price": 5600,
+        "new_price": 20600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 313,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Лайт Красный",
+        "price": 5600,
+        "new_price": 20600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 314,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини (без часов) Серый",
+        "price": 7200,
+        "new_price": 22200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 315,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини (без часов) Черный",
+        "price": 7200,
+        "new_price": 22200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 316,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини (без часов) Синий",
+        "price": 7200,
+        "new_price": 22200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 317,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини (без часов) Красный",
+        "price": 7200,
+        "new_price": 22200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 318,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини с Часами Черный",
+        "price": 8200,
+        "new_price": 23200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 319,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини с Часами Красный",
+        "price": 8200,
+        "new_price": 23200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 320,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини с Часами Синий",
+        "price": 8200,
+        "new_price": 23200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 321,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Мини с Часами Серый",
+        "price": 8200,
+        "new_price": 23200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 322,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Миди Серый",
+        "price": 15900,
+        "new_price": 30900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 323,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Миди Черный",
+        "price": 15900,
+        "new_price": 30900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 324,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Миди Оранжевый",
+        "price": 15800,
+        "new_price": 30800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 325,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Миди Малиновый",
+        "price": 15900,
+        "new_price": 30900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 326,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция 2 Черный",
+        "price": 14500,
+        "new_price": 29500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 327,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция 2 Синий",
+        "price": 14500,
+        "new_price": 29500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 328,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция 2 Медный",
+        "price": 14500,
+        "new_price": 29500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 329,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Дуо Бежевый",
+        "price": 39000,
+        "new_price": 54000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 330,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Дуо Черный",
+        "price": 39000,
+        "new_price": 54000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 331,
+        "category": "Аксессуары",
+        "postcategory": "Яндекс станция",
+        "name": "Яндекс Станция Дуо Красный",
+        "price": 39000,
+        "new_price": 54000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 332,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin FORERUNNER 265 Aqua",
+        "price": 42000,
+        "new_price": 47000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 333,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin FORERUNNER 265S White",
+        "price": 44000,
+        "new_price": 49000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 334,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin FORERUNNER 265S Black",
+        "price": 44000,
+        "new_price": 49000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 335,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin FORERUNNER 265S Pink",
+        "price": 44000,
+        "new_price": 49000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 336,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin FENIX 7X BLUE TITANIUM WITH WHITESTONE BAND",
+        "price": 76000,
+        "new_price": 81000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 337,
+        "category": "Watch",
+        "postcategory": "Watch Garmin",
+        "name": "Watch Garmin EPIX PRO GEN 2  Sapphire Titanium whitestone",
+        "price": 86000,
+        "new_price": 91000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 338,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Milanese Natural L",
+        "price": 102200,
+        "new_price": 107200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 339,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Milanese Natural M",
+        "price": 102300,
+        "new_price": 107300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 340,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 2024 Milanese  Black S",
+        "price": 101600,
+        "new_price": 106600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 341,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 2024 Milanese  Black М",
+        "price": 101600,
+        "new_price": 106600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 342,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 2024 Milanese  Black L",
+        "price": 101600,
+        "new_price": 106600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 343,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Ti Black Ocean Band",
+        "price": 76800,
+        "new_price": 81800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 344,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Ti Ice Blue Ocean Band",
+        "price": 77500,
+        "new_price": 82500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 345,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Ti Tan Black Alpine Loop S",
+        "price": 78900,
+        "new_price": 83900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 346,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Trail Black ML",
+        "price": 79000,
+        "new_price": 84000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 347,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Trail Black SM",
+        "price": 79000,
+        "new_price": 84000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 348,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Dark Green S-",
+        "price": 76000,
+        "new_price": 81000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 349,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Dark Green M-",
+        "price": 76000,
+        "new_price": 81000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 350,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Black Dark Green L-",
+        "price": 77000,
+        "new_price": 82000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 351,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Black Ocean Band",
+        "price": 77700,
+        "new_price": 82700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 352,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Navy Ocean Band",
+        "price": 77500,
+        "new_price": 82500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 353,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Tan Alpine Loop S",
+        "price": 76500,
+        "new_price": 81500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 354,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Tan Alpine Loop M",
+        "price": 76500,
+        "new_price": 81500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 355,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Blue Trail Loop S/M",
+        "price": 76700,
+        "new_price": 81700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 356,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Natural Ti Blue Trail Loop M/L",
+        "price": 76700,
+        "new_price": 81700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 357,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Ultra 2 49 Olive Alpine Loop M",
+        "price": 71900,
+        "new_price": 76900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 358,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Apple Ultra 2 49 M Indigo Alpine Loop",
+        "price": 71000,
+        "new_price": 76000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 359,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Apple Watch Ultra 2 49 Titanium Blue Alpine Loop (S)",
+        "price": 74000,
+        "new_price": 79000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 360,
+        "category": "Watch",
+        "postcategory": "Apple Watch 2 49 ULTRA 2024",
+        "name": "Apple Watch Ultra 2 49 Titanium Blue Alpine Loop (M)",
+        "price": 71000,
+        "new_price": 76000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 361,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Milanese Gold ML ",
+        "price": 99000,
+        "new_price": 104000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 362,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Natural Milanese ML ",
+        "price": 99000,
+        "new_price": 104000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 363,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Slate Milanese ML ",
+        "price": 99000,
+        "new_price": 104000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 364,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Milanese Natural",
+        "price": 96900,
+        "new_price": 101900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 365,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Milanese Gold ",
+        "price": 96900,
+        "new_price": 101900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 366,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Jet Black ML ",
+        "price": 43500,
+        "new_price": 48500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 367,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Jet Black SM ",
+        "price": 43200,
+        "new_price": 48200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 368,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Jet Black Loop ",
+        "price": 44500,
+        "new_price": 49500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 369,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Rose Gold ML ",
+        "price": 42500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 370,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Rose Gold SM ",
+        "price": 42500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 371,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Rose Gold Loop  ",
+        "price": 43600,
+        "new_price": 48600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 372,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Silver Blue ML ",
+        "price": 43600,
+        "new_price": 48600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 373,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Silver Starlight ML ",
+        "price": 43500,
+        "new_price": 48500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 374,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 46 Silver Blue SM ",
+        "price": 43700,
+        "new_price": 48700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 375,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10",
+        "price": 46,
+        "new_price": 5046,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 376,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch  S10 46 Silver Blue Loop ",
+        "price": 44500,
+        "new_price": 49500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 377,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Jet Black ML ",
+        "price": 39500,
+        "new_price": 44500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 378,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Jet Black SM ",
+        "price": 41000,
+        "new_price": 46000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 379,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Rose Gold ML ",
+        "price": 39900,
+        "new_price": 44900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 380,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Rose Gold SM ",
+        "price": 39900,
+        "new_price": 44900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 381,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Rose Gold Loop  ",
+        "price": 40100,
+        "new_price": 45100,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 382,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Silver Blue ML ",
+        "price": 42400,
+        "new_price": 47400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 383,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Silver Blue SM ",
+        "price": 42500,
+        "new_price": 47500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 384,
+        "category": "Watch",
+        "postcategory": "Apple Watch 10 (2024)",
+        "name": "Apple Watch S10 42 Silver Blue Loop ",
+        "price": 43600,
+        "new_price": 48600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 385,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 2023 40 White/Blue S/M",
+        "price": 22300,
+        "new_price": 27300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 386,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 2023 40 White/Blue Loop",
+        "price": 22700,
+        "new_price": 27700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 387,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Midnight M/L(2023)",
+        "price": 22200,
+        "new_price": 27200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 388,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Midnight S/M (2024)",
+        "price": 22800,
+        "new_price": 27800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 389,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Starlight S/M-2023",
+        "price": 23900,
+        "new_price": 28900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 390,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Starlight М/ L-2023",
+        "price": 24200,
+        "new_price": 29200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 391,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Starlight Loop  2023",
+        "price": 24900,
+        "new_price": 29900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 392,
+        "category": "Watch",
+        "postcategory": "Watch SE 2 40(2022_23)",
+        "name": "Apple Watch Watch SE 40 Starlight Lake Green Loop Band  (2024)",
+        "price": 23500,
+        "new_price": 28500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 393,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 2023 44 Midnight S/M",
+        "price": 26000,
+        "new_price": 31000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 394,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 2023 44 Midnight M/L",
+        "price": 26000,
+        "new_price": 31000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 395,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 2023 44 Midnight Loop",
+        "price": 25500,
+        "new_price": 30500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 396,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 44 2023 Starlight Sport Loop (2023)",
+        "price": 25500,
+        "new_price": 30500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 397,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 44 2023 Starlight M/L (2023)",
+        "price": 25600,
+        "new_price": 30600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 398,
+        "category": "Watch",
+        "postcategory": "Apple Watch SE 2 44(2022_23)",
+        "name": "Apple Watch Watch SE 44 Silver 2024 M/L",
+        "price": 25000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 399,
+        "category": "Watch",
+        "postcategory": "Apple Watch Series 8 45 VIP",
+        "name": "Apple Watch S8 45 sport",
+        "price": 29300,
+        "new_price": 34300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 400,
+        "category": "Watch",
+        "postcategory": "Apple Watch Series 8 45 VIP",
+        "name": "Apple Watch Watch S8 45 Silver Stainless Steel Case White Sport Band ML",
+        "price": 58500,
+        "new_price": 63500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 401,
+        "category": "Watch",
+        "postcategory": "Apple Watch Series 9 41",
+        "name": "Apple Watch Watch S9 41 Midnight ML",
+        "price": 31300,
+        "new_price": 36300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 402,
+        "category": "Watch",
+        "postcategory": "Apple Watch Series 9 41",
+        "name": "Apple Watch Watch S9 41 Midnight Loop",
+        "price": 32800,
+        "new_price": 37800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 403,
+        "category": "Watch",
+        "postcategory": "Apple Watch Series 9 41",
+        "name": "Apple Watch Watch S9 41 Midnight ML",
+        "price": 35500,
+        "new_price": 40500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 404,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox PS Disk",
+        "name": " PlayStation 5 Slim (DISK 1  TB)",
+        "price": 54200,
+        "new_price": 57200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 405,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox PS Disk",
+        "name": "Xbox Series S 512gb ",
+        "price": 32000,
+        "new_price": 35000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 406,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense White",
+        "price": 7500,
+        "new_price": 10500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 407,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Black",
+        "price": 7000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 408,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Red",
+        "price": 7000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 409,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Pink",
+        "price": 7000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 410,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Blue",
+        "price": 7000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 411,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Gray Camouflage",
+        "price": 7000,
+        "new_price": 10000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 412,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад PS5",
+        "name": "Геймпад Sony DualSense Galactic Purple",
+        "price": 8000,
+        "new_price": 11000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 413,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад Xbox",
+        "name": "Xbox Wireless Controller White",
+        "price": 5900,
+        "new_price": 8900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 414,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад Xbox",
+        "name": "Xbox Wireless Controller Black",
+        "price": 5900,
+        "new_price": 8900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 415,
+        "category": "Аксессуары",
+        "postcategory": "PS5|Xbox Геймпад Xbox",
+        "name": "Геймпад Xbox Elite series 2 Blue",
+        "price": 13500,
+        "new_price": 16500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 416,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL CLIP 4 красный",
+        "price": 4900,
+        "new_price": 7900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 417,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL CLIP 4 черный",
+        "price": 4900,
+        "new_price": 7900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 418,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL CLIP 4 розовый",
+        "price": 4900,
+        "new_price": 7900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 419,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL CLIP 4 зеленый",
+        "price": 4900,
+        "new_price": 7900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 420,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL XTREME 2 Черная",
+        "price": 19700,
+        "new_price": 22700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 421,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL JBL Partybox OTG",
+        "price": 30800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 422,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL JBL Partybox 120 black",
+        "price": 46500,
+        "new_price": 49500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 423,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL JBL Partybox 310 black",
+        "price": 57500,
+        "new_price": 60500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 424,
+        "category": "Аксессуары",
+        "postcategory": "Колонки JBL",
+        "name": "Колонка JBL JBL Partybox 320 black",
+        "price": 71500,
+        "new_price": 74500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 425,
+        "category": "Аксессуары",
+        "postcategory": "Виртуальные очки",
+        "name": "Виртуальные очки Meta Quest Pro",
+        "price": 71000,
+        "new_price": 74000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 426,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "GoPro HERO 11 Black",
+        "price": 29000,
+        "new_price": 34000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 427,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "GoPro HERO 12 black",
+        "price": 34500,
+        "new_price": 39500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 428,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "Hero 12 Black + Special Bundle",
+        "price": 39500,
+        "new_price": 44500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 429,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "GoPro HERO 13 black",
+        "price": 36000,
+        "new_price": 41000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 430,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "Insta360° Invisible Selfie Stick 85cm :",
+        "price": 3500,
+        "new_price": 8500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 431,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "Insta360° Invisible Selfie Stick 114cm :",
+        "price": 3500,
+        "new_price": 8500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 432,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "Insta360° Flow White :",
+        "price": 12000,
+        "new_price": 17000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 433,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "Insta360° Flow Gray :",
+        "price": 12000,
+        "new_price": 17000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 434,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° GO 3 128GB (GO306) White  :",
+        "price": 32000,
+        "new_price": 37000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 435,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° GO 3S 64GB (GO3S06) Black :",
+        "price": 33000,
+        "new_price": 38000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 436,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° GO 3S 64GB (GO3S06) White :",
+        "price": 33000,
+        "new_price": 38000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 437,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° GO 3S 128GB (GO3S06) Black :",
+        "price": 37000,
+        "new_price": 42000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 438,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° GO 3S 128GB (GO3S06) White :",
+        "price": 37000,
+        "new_price": 42000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 439,
+        "category": "Аксессуары",
+        "postcategory": "Go PRO",
+        "name": "insta360° X4 Black :",
+        "price": 49000,
+        "new_price": 54000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 440,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8 Core /8GB /SSD 256GB /8Core Pink - 160.000🇮🇳 8 Core /8GB /SSD 256GB /8Core Pink -",
+        "price": 160000,
+        "new_price": 165000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 441,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/8GB/512GB SSD/Blue - 179.500🇮🇳(Клавиатура 🇺🇸) 8C CPU, 8C GPU/8GB/512GB SSD/Blue -",
+        "price": 179500,
+        "new_price": 184500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 442,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/256GB SSD(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Green Z12U001J7 -",
+        "price": 185000,
+        "new_price": 190000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 443,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/256GB SSD(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Purple - Z130001UE -",
+        "price": 185000,
+        "new_price": 190000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 444,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/512GB SSD (Keyboard 🇪🇺/ 🔌 - 🇷🇺)Green - Z12V00061 -",
+        "price": 203000,
+        "new_price": 208000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 445,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/512GB SSD (Keyboard 🇪🇺/ 🔌 - 🇷🇺)Purple - Z13100061 -",
+        "price": 203000,
+        "new_price": 208000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 446,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/512GB SSD (Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Green - Z12V0019Y -",
+        "price": 206000,
+        "new_price": 211000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 447,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/512GB SSD (Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Blue - Z12X001K0 -",
+        "price": 208000,
+        "new_price": 213000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 448,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/512GB SSD (Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Purple - Z131001ZH -",
+        "price": 206000,
+        "new_price": 211000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 449,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/1TB SSD/(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Green - Z12V002XG -",
+        "price": 236000,
+        "new_price": 241000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 450,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/1TB SSD/(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Blue - Z12X002GK -",
+        "price": 236000,
+        "new_price": 241000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 451,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/1TB SSD/(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Yellow - Z12T002JD -",
+        "price": 236000,
+        "new_price": 241000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 452,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/1TB SSD/(Keyboard и 🔌 - 🇷🇺. Заводское исполнение)Purple - Z131002N6 -",
+        "price": 236000,
+        "new_price": 241000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 453,
+        "category": "iMac",
+        "postcategory": "iMac M1",
+        "name": "iMac 24” 4.5K Retina, Apple M1 8C CPU 8C GPU/16GB/1TB SSD (Keyboard 🇪🇺/ 🔌 - 🇷🇺) Blue - Z12X00064 -",
+        "price": 233000,
+        "new_price": 238000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 454,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": " 🛡 +3 месяца -",
+        "price": 3000,
+        "new_price": 4500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 455,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": " 🛡 +6 месяцев -",
+        "price": 5500,
+        "new_price": 7000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 456,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": " 🛡 +12 месяцев  -",
+        "price": 8000,
+        "new_price": 9500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 457,
+        "category": "Dyson",
+        "postcategory": "Беспроводные наушники Dyson",
+        "name": "Dyson Ontrac Copper",
+        "price": 51500,
+        "new_price": 53000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 458,
+        "category": "Dyson",
+        "postcategory": "Беспроводные наушники Dyson",
+        "name": "Dyson Ontrac Black Nickel",
+        "price": 51500,
+        "new_price": 53000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 459,
+        "category": "Dyson",
+        "postcategory": "Беспроводные наушники Dyson",
+        "name": "Dyson Ontrac Cinnabar",
+        "price": 51500,
+        "new_price": 53000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 460,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Dyson Zone Absolute+ Prussian Blue/Copper -",
+        "price": 36000,
+        "new_price": 37500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 461,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Dyson Zone Ultra Blue/Prussian Blue -",
+        "price": 36000,
+        "new_price": 37500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 462,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Styler Dyson HS08  Red/Velvet 🇮🇳",
+        "price": 62700,
+        "new_price": 64200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 463,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson long HS05 ceramic pink/rose gold",
+        "price": 64300,
+        "new_price": 65800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 464,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson HS05 Long Strawberry Bronze / Blush Pink",
+        "price": 55000,
+        "new_price": 56500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 465,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson HS05 Airwrap Long Barrel Onyx Gold 🇭🇰",
+        "price": 61000,
+        "new_price": 62500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 466,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson Airwrap Styler Complete  HS05 Long Ceramic Pop",
+        "price": 48900,
+        "new_price": 50400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 467,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson Airwrap Long HS05 Barrel  Prussian Blue/Cooper",
+        "price": 47800,
+        "new_price": 49300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 468,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Styler Complete Long HS05 Blush/Blue",
+        "price": 48000,
+        "new_price": 49500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 469,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson HS-05 Fuchsia/Nickel",
+        "price": 47800,
+        "new_price": 49300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 470,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson Hs05 Long Nickel Copper",
+        "price": 48900,
+        "new_price": 50400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 471,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson Airwap Styler HS05 Fuchsia & Nickel",
+        "price": 32000,
+        "new_price": 33500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 472,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson AirStrait HT01 Prussian Blue",
+        "price": 41000,
+        "new_price": 42500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 473,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "Dyson AirStrait HT01 Nickel/Cooper -",
+        "price": 41000,
+        "new_price": 42500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 474,
+        "category": "Dyson",
+        "postcategory": "Стилер Dyson",
+        "name": "  Dyson AirStrait HT01 Ceramic/Pink",
+        "price": 43900,
+        "new_price": 45400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 475,
+        "category": "Dyson",
+        "postcategory": "Фен Dyson",
+        "name": "Фен HD18 Supersonic R Pro Vinca Blue /Topaz Orange 🇪🇺",
+        "price": 46900,
+        "new_price": 48400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 476,
+        "category": "Dyson",
+        "postcategory": "Фен Dyson",
+        "name": "Фен HD16 Supersonic Neural  Ceramic Patina/Topaz 🇨🇳",
+        "price": 40500,
+        "new_price": 42000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 477,
+        "category": "Dyson",
+        "postcategory": "Фен Dyson",
+        "name": "Фен HD16 Supersonic Neural Prussian Blue/Topaz 🇨🇳",
+        "price": 44000,
+        "new_price": 45500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 478,
+        "category": "Dyson",
+        "postcategory": "Пылесос Dyson",
+        "name": "V8 Tactical SV25 Silver/Nickel 🇬🇧",
+        "price": 39000,
+        "new_price": 40500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 479,
+        "category": "Dyson",
+        "postcategory": "Пылесос Dyson",
+        "name": "V10 Total Nickel/Black SV27 🇬🇧",
+        "price": 45800,
+        "new_price": 47300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 480,
+        "category": "Dyson",
+        "postcategory": "Пылесос Dyson",
+        "name": "V15 detect absolute yellow/nickel SV47 🇪🇺",
+        "price": 60000,
+        "new_price": 61500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 481,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "V15 detect absolute gold/gold 🇪🇺",
+        "price": 60000,
+        "new_price": 61500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 482,
+        "category": "Dyson",
+        "postcategory": "Пылесос Dyson",
+        "name": "Gen5 detect absolute Prussian blue SV23 🇸🇬",
+        "price": 72000,
+        "new_price": 73500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 483,
+        "category": "Dyson",
+        "postcategory": "Пылесос Dyson",
+        "name": "Gen5 detect absolute purple SV23 🇸🇬",
+        "price": 72000,
+        "new_price": 73500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 484,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "V15submarine",
+        "price": 78000,
+        "new_price": 79500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 485,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "BigBall Cinetic Multi Floor 2 🇪🇺",
+        "price": 52000,
+        "new_price": 53500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 486,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "BigBall parquet 2 🇪🇺",
+        "price": 51000,
+        "new_price": 52500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 487,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Dyson PH04",
+        "price": 84000,
+        "new_price": 85500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 488,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Жесткая расческа (Blue/Cooper) -",
+        "price": 4500,
+        "new_price": 6000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 489,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Мягкая расческа (Blue/Cooper) -",
+        "price": 4500,
+        "new_price": 6000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 490,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Насадка для деликатной сушки (Blue/Cooper) -",
+        "price": 4500,
+        "new_price": 6000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 491,
+        "category": "Dyson",
+        "postcategory": "Прочее Dyson",
+        "name": "Кожаный бокс для хранения (Blue/Cooper)",
+        "price": 5900,
+        "new_price": 7400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 492,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 6/128 Black",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 493,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 6/128 Blue",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 494,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 6/128 Purple",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 495,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 8/256 Black",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 496,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 8/256 Blue",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 497,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C65 8/256 Purple",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 498,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 6/128 Black",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 499,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 6/128 Gold",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 500,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 6/128 Green",
+        "price": 10900,
+        "new_price": 12900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 501,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 8/256 Black",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 502,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 8/256 Gold",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 503,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco C75 8/256 Green",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 504,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M5s 4/128 Grey",
+        "price": 11900,
+        "new_price": 13900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 505,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M5s 8/256 Blue",
+        "price": 13900,
+        "new_price": 15900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 506,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M5s 8/256 Grey",
+        "price": 13900,
+        "new_price": 15900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 507,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M6 Pro 4G 8/256 Black",
+        "price": 18500,
+        "new_price": 20500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 508,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco M6 Pro 4G 8/256 Black",
+        "price": 18500,
+        "new_price": 20500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 509,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M6 Pro 4G 8/256 Blue",
+        "price": 18400,
+        "new_price": 20400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 510,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M6 Pro 4G 12/512 Black",
+        "price": 21800,
+        "new_price": 23800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 511,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M6 Pro 4G 12/512 Blue",
+        "price": 21900,
+        "new_price": 23900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 512,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco M6 Pro 4G 12/512 Purple",
+        "price": 21900,
+        "new_price": 23900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 513,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 5G 8/256 Black",
+        "price": 22600,
+        "new_price": 24600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 514,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 5G 12/256 Black",
+        "price": 23600,
+        "new_price": 25600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 515,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 5G 12/256 White",
+        "price": 23600,
+        "new_price": 25600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 516,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco X6 5G 12/256 White",
+        "price": 23600,
+        "new_price": 25600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 517,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 5G 12/512 Black",
+        "price": 27300,
+        "new_price": 29300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 518,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 8/256 Black",
+        "price": 28000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 519,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 8/256 Grey",
+        "price": 28000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 520,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇷🇺Poco X6 Pro 5G 8/256 Grey",
+        "price": 28000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 521,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 8/256 Yellow",
+        "price": 28000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 522,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 12/512 Black",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 523,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 12/512 Grey",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 524,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco X6 Pro 5G 12/512 Yellow",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 525,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco F6 5G 8/256 Black",
+        "price": 32300,
+        "new_price": 34300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 526,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco F6 5G 12/512 Black",
+        "price": 36200,
+        "new_price": 38200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 527,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco F6 5G 12/512 Green",
+        "price": 36000,
+        "new_price": 38000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 528,
+        "category": "Andrioid",
+        "postcategory": "Устройства Poco",
+        "name": "🇪🇺Poco Pad Wi-Fi 8/256 Grey",
+        "price": 25300,
+        "new_price": 27300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 529,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi Pad SE Wi-Fi 6/128 Purple",
+        "price": 15900,
+        "new_price": 17900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 530,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi Pad SE Wi-Fi 8/256 Grey",
+        "price": 18900,
+        "new_price": 20900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 531,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Redmi Pad SE Wi-Fi 8/256 Green",
+        "price": 18900,
+        "new_price": 20900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 532,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi Pad SE Wi-Fi 8/256 Green",
+        "price": 18900,
+        "new_price": 20900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 533,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi Pad SE Wi-Fi 8/256 Purple",
+        "price": 18900,
+        "new_price": 20900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 534,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Redmi Pad Pro Wi-Fi 8/256 Blue",
+        "price": 27000,
+        "new_price": 29000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 535,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Redmi Pad Pro Wi-Fi 8/256 Green",
+        "price": 27000,
+        "new_price": 29000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 536,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi A3 4/128 Black",
+        "price": 7700,
+        "new_price": 9700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 537,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi A3 4/128 Blue",
+        "price": 7700,
+        "new_price": 9700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 538,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi A3 4/128 Green",
+        "price": 7700,
+        "new_price": 9700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 539,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 12 4/128 NFC Blue",
+        "price": 9400,
+        "new_price": 11400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 540,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 12 8/256 NFC Black",
+        "price": 11800,
+        "new_price": 13800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 541,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 12 8/256 NFC Blue",
+        "price": 11900,
+        "new_price": 13900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 542,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 13C 4/128 NFC Blue",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 543,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 13C 4/128 NFC White",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 544,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 4/128 NFC Black",
+        "price": 10600,
+        "new_price": 12600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 545,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 4/128 NFC Blue",
+        "price": 10600,
+        "new_price": 12600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 546,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 4/128 NFC Green",
+        "price": 10600,
+        "new_price": 12600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 547,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 4/128 NFC Purple",
+        "price": 10600,
+        "new_price": 12600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 548,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 8/256 NFC Black",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 549,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 8/256 NFC Blue",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 550,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 8/256 NFC Green",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 551,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Redmi 14C 8/256 NFC Purple",
+        "price": 12900,
+        "new_price": 14900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 552,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/128 NFC Black",
+        "price": 14200,
+        "new_price": 16200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 553,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/128 NFC Blue",
+        "price": 14200,
+        "new_price": 16200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 554,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/128 NFC Green",
+        "price": 14200,
+        "new_price": 16200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 555,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/256 NFC Black",
+        "price": 15400,
+        "new_price": 17400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 556,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/256 NFC Blue",
+        "price": 15400,
+        "new_price": 17400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 557,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/256 NFC Green",
+        "price": 15400,
+        "new_price": 17400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 558,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 4G 8/512 NFC Blue",
+        "price": 18000,
+        "new_price": 20000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 559,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 4G 8/256 Black",
+        "price": 20600,
+        "new_price": 22600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 560,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 Pro 4G 8/256 Black",
+        "price": 20600,
+        "new_price": 22600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 561,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 4G 8/256 Green",
+        "price": 20600,
+        "new_price": 22600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 562,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 Pro 4G 8/256 Green",
+        "price": 20700,
+        "new_price": 22700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 563,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 4G 8/256 Purple",
+        "price": 20700,
+        "new_price": 22700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 564,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Note 13 Pro 4G 12/512 Purple",
+        "price": 28000,
+        "new_price": 30000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 565,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 8/256 Black",
+        "price": 27000,
+        "new_price": 29000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 566,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 8/256 Teal",
+        "price": 27000,
+        "new_price": 29000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 567,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 12/512 Black",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 568,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 12/512 Green",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 569,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 12/512 Teal",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 570,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Note 13 Pro 5G 12/512 Purple",
+        "price": 31800,
+        "new_price": 33800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 571,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Xiaomi 12 Lite 5G 8/128 Black",
+        "price": 17500,
+        "new_price": 19500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 572,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 12 5G 8/128 Blue",
+        "price": 29800,
+        "new_price": 31800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 573,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 12 5G 8/128 Grey",
+        "price": 29800,
+        "new_price": 31800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 574,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 12 5G 8/256 Blue",
+        "price": 31700,
+        "new_price": 33700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 575,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 12 5G 8/256 Purple",
+        "price": 31700,
+        "new_price": 33700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 576,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 13T 5G 8/256 Black",
+        "price": 35600,
+        "new_price": 37600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 577,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇬🇧Xiaomi 14 5G 12/512 Black",
+        "price": 70700,
+        "new_price": 72700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 578,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Xiaomi 14T 5G 12/256 Black",
+        "price": 44900,
+        "new_price": 46900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 579,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Xiaomi 14T 5G 12/256 Blue",
+        "price": 44900,
+        "new_price": 46900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 580,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Xiaomi 14T 5G 12/256 Green",
+        "price": 44900,
+        "new_price": 46900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 581,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 14T Pro 5G 12/1024 Black",
+        "price": 65400,
+        "new_price": 67400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 582,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇪🇺Xiaomi 14 Ultra Photography Kit Grey",
+        "price": 10500,
+        "new_price": 12500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 583,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Realme Note 50 4/128 Black",
+        "price": 7900,
+        "new_price": 9900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 584,
+        "category": "Andrioid",
+        "postcategory": "Устройства Xiaomi",
+        "name": "🇷🇺Realme Note 50 4/128 Blue",
+        "price": 7900,
+        "new_price": 9900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 585,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor X7b 8/128 Black",
+        "price": 13000,
+        "new_price": 15000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 586,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor X9b 8/256 Green",
+        "price": 23000,
+        "new_price": 25000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 587,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor X9b 8/256 Orange",
+        "price": 23000,
+        "new_price": 25000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 588,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 90 8/256GB Blue",
+        "price": 24900,
+        "new_price": 26900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 589,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 90 8/256GB Green",
+        "price": 24900,
+        "new_price": 26900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 590,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 90 12/512GB Green",
+        "price": 29300,
+        "new_price": 31300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 591,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 200 Lite 8/256 Blue",
+        "price": 23200,
+        "new_price": 25200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 592,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 200 8/256 Black",
+        "price": 33200,
+        "new_price": 35200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 593,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 200 8/256 Green",
+        "price": 32200,
+        "new_price": 34200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 594,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Honor 200 8/256 White",
+        "price": 32300,
+        "new_price": 34300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 595,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 12/256 Black",
+        "price": 48000,
+        "new_price": 50000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 596,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 12/256 White",
+        "price": 48000,
+        "new_price": 50000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 597,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 pro 12/512 Black",
+        "price": 61400,
+        "new_price": 63400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 598,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 pro 12/512 White",
+        "price": 61400,
+        "new_price": 63400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 599,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 Ultra 16/512 Black",
+        "price": 87000,
+        "new_price": 89000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 600,
+        "category": "Andrioid",
+        "postcategory": "Устройства Huawei",
+        "name": "🇷🇺Huawei Pura 70 Ultra 16/1024 Black",
+        "price": 96000,
+        "new_price": 98000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 601,
+        "category": "Зарядные устройства",
+        "postcategory": "Зарядные устройства Sumsung",
+        "name": "🔌Блок Samsung 25W Type-C White",
+        "price": 2000,
+        "new_price": 4000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 602,
+        "category": "Зарядные устройства",
+        "postcategory": "Зарядные устройства Sumsung",
+        "name": "🔌Блок Samsung 25W Type-C White+cable",
+        "price": 3200,
+        "new_price": 5200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 603,
+        "category": "Зарядные устройства",
+        "postcategory": "Зарядные устройства Sumsung",
+        "name": "🔌Блок Samsung 45W Type-C Black+cable",
+        "price": 3200,
+        "new_price": 5200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 604,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung Pixel 8A 128 Obsidian 🇯🇵",
+        "price": 43300,
+        "new_price": 45300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 605,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung Pixel 8A 128 Porcelain 🇯🇵",
+        "price": 43300,
+        "new_price": 45300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 606,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung Pixel 8A 128 Bay 🇯🇵",
+        "price": 43400,
+        "new_price": 45400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 607,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung Pixel 8A 128 Aloe 🇯🇵",
+        "price": 43400,
+        "new_price": 45400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 608,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A05 4/64 Black",
+        "price": 9200,
+        "new_price": 11200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 609,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A05 4/128 Black",
+        "price": 10400,
+        "new_price": 12400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 610,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A05S 4/64 Black",
+        "price": 10400,
+        "new_price": 12400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 611,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A05S 4/128 Black",
+        "price": 11600,
+        "new_price": 13600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 612,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 4/64 Black",
+        "price": 9600,
+        "new_price": 11600,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 613,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A06 4/64 Black",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 614,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A06 4/64 Light Blue",
+        "price": 9700,
+        "new_price": 11700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 615,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 4/128 Black",
+        "price": 11400,
+        "new_price": 13400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 616,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A06 4/128 Black",
+        "price": 11000,
+        "new_price": 13000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 617,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 4/128 Gold",
+        "price": 11000,
+        "new_price": 13000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 618,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 4/128 Light Blue",
+        "price": 11000,
+        "new_price": 13000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 619,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 6/128 Black",
+        "price": 12000,
+        "new_price": 14000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 620,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A06 6/128 Black",
+        "price": 12000,
+        "new_price": 14000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 621,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 6/128 Gold",
+        "price": 12000,
+        "new_price": 14000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 622,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A06 6/128 Light Blue",
+        "price": 12000,
+        "new_price": 14000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 623,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A06 6/128 Light Blue",
+        "price": 12300,
+        "new_price": 14300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 624,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A15 4/128 Light Blue",
+        "price": 15500,
+        "new_price": 17500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 625,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A15 6/128 Blue Black",
+        "price": 16400,
+        "new_price": 18400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 626,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A15 6/128 Light Blue",
+        "price": 16500,
+        "new_price": 18500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 627,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇰🇿A15 8/256 Blue",
+        "price": 19300,
+        "new_price": 21300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 628,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A15 8/256 Blue Black",
+        "price": 19300,
+        "new_price": 21300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 629,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇰🇿A15 8/256 Light Blue",
+        "price": 19300,
+        "new_price": 21300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 630,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 4/128 Black",
+        "price": 16900,
+        "new_price": 18900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 631,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 4/128 Green",
+        "price": 17000,
+        "new_price": 19000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 632,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 4/128 Grey",
+        "price": 16900,
+        "new_price": 18900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 633,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 6/128 Black",
+        "price": 17900,
+        "new_price": 19900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 634,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 6/128 Grey",
+        "price": 17900,
+        "new_price": 19900,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 635,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 8/256 Black",
+        "price": 20800,
+        "new_price": 22800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 636,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 8/256 Green",
+        "price": 20800,
+        "new_price": 22800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 637,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A16 8/256 Grey",
+        "price": 20800,
+        "new_price": 22800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 638,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A25 8/256 Blue",
+        "price": 22000,
+        "new_price": 24000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 639,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A25 8/256 Blue Black",
+        "price": 22000,
+        "new_price": 24000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 640,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A25 8/256 Light Blue",
+        "price": 22000,
+        "new_price": 24000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 641,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A25 8/256 Yellow",
+        "price": 22000,
+        "new_price": 24000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 642,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A35 8/128 Iceblue",
+        "price": 24400,
+        "new_price": 26400,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 643,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A35 8/128 Lemon",
+        "price": 24300,
+        "new_price": 26300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 644,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A35 8/128 Navy",
+        "price": 24500,
+        "new_price": 26500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 645,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇰🇿A35 8/256 Iceblue",
+        "price": 27300,
+        "new_price": 29300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 646,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇰🇿A35 8/256 Lilac",
+        "price": 27300,
+        "new_price": 29300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 647,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇰🇿A35 8/256 Navy",
+        "price": 27300,
+        "new_price": 29300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 648,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A55 8/128 Iceblue",
+        "price": 31200,
+        "new_price": 33200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 649,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A55 8/128 Iceblue",
+        "price": 31200,
+        "new_price": 33200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 650,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 8/128 Lemon",
+        "price": 31200,
+        "new_price": 33200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 651,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A55 8/128 Lemon",
+        "price": 31500,
+        "new_price": 33500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 652,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A55 8/128 Lilac",
+        "price": 31500,
+        "new_price": 33500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 653,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪A55 8/128 Navy",
+        "price": 31500,
+        "new_price": 33500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 654,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺A55 8/128 Navy",
+        "price": 31500,
+        "new_price": 33500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 655,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 8/256 Iceblue",
+        "price": 33000,
+        "new_price": 35000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 656,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 8/256 Navy",
+        "price": 33000,
+        "new_price": 35000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 657,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 12/256 Iceblue",
+        "price": 35700,
+        "new_price": 37700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 658,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 12/256 Lilac",
+        "price": 35700,
+        "new_price": 37700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 659,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺A55 12/256 Navy",
+        "price": 35700,
+        "new_price": 37700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 660,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S23 Ultra 12/256 S918B Black",
+        "price": 74000,
+        "new_price": 76000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 661,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S23 Ultra 12/256 S918B Green",
+        "price": 74500,
+        "new_price": 76500,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 662,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S23 Ultra 12/256 S918B Lavender",
+        "price": 75700,
+        "new_price": 77700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 663,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S24 FE 8/256 S721B Blue",
+        "price": 50700,
+        "new_price": 52700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 664,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S24 FE 8/256 S721B Grey",
+        "price": 50700,
+        "new_price": 52700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 665,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 FE 8/512 S721B Blue",
+        "price": 59000,
+        "new_price": 61000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 666,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S24 FE 8/512 S721B Graphite",
+        "price": 59000,
+        "new_price": 61000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 667,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺S24 FE 8/512 S721B Graphite",
+        "price": 59800,
+        "new_price": 61800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 668,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺S24 FE 8/512 S721B Grey",
+        "price": 59800,
+        "new_price": 61800,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 669,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 8/128 S921B Grey",
+        "price": 59000,
+        "new_price": 61000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 670,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇹🇭S24 8/128 S921B Violet",
+        "price": 59000,
+        "new_price": 61000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 671,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇭🇰S24 8/256 S9210 Black",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 672,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 8/256 S921B Black",
+        "price": 65000,
+        "new_price": 67000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 673,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺S24 8/256 S921B Black",
+        "price": 65200,
+        "new_price": 67200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 674,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇭🇰S24 8/256 S9210 Grey",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 675,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 8/256 S921B Grey",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 676,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇭🇰S24 8/256 S9210 Violet",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 677,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇭🇰S24 8/256 S9210 Yellow",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 678,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇷🇺S24 8/256 S921B Yellow",
+        "price": 64000,
+        "new_price": 66000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 679,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 8/512 S921B Grey",
+        "price": 73000,
+        "new_price": 75000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 680,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇨🇳S24+ 12/256 S9260 Black",
+        "price": 75700,
+        "new_price": 77700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 681,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24+ 12/256 S926B Black",
+        "price": 75200,
+        "new_price": 77200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 682,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇨🇳S24+ 12/256 S9260 Grey",
+        "price": 75700,
+        "new_price": 77700,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 683,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24+ 12/256 S926B Grey",
+        "price": 75300,
+        "new_price": 77300,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 684,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇹🇭S24+ 12/256 S926B Violet",
+        "price": 75200,
+        "new_price": 77200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 685,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇹🇭S24+ 12/256 S926B Yellow",
+        "price": 75200,
+        "new_price": 77200,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 686,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24+ 12/512 S926B Black",
+        "price": 83000,
+        "new_price": 85000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 687,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24+ 12/512 S926B Violet",
+        "price": 83000,
+        "new_price": 85000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 688,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S24 Ultra 12/256 S928B Black",
+        "price": 83000,
+        "new_price": 85000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 689,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪S24 Ultra 12/256 S928B Grey",
+        "price": 83000,
+        "new_price": 85000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 690,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇹🇭S24 Ultra 12/256 S928B Violet",
+        "price": 83000,
+        "new_price": 85000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 691,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 Ultra 12/512 S928B Black",
+        "price": 98000,
+        "new_price": 100000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 692,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 Ultra 12/512 S928B Grey",
+        "price": 98000,
+        "new_price": 100000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 693,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 Ultra 12/512 S928B Violet",
+        "price": 98000,
+        "new_price": 100000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 694,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺S24 Ultra 12/512 S928B Yellow",
+        "price": 98000,
+        "new_price": 100000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 695,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung S24 Ultra 12/1TB Black S928B/DS🇿🇦",
+        "price": 131000,
+        "new_price": 133000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 696,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung S24 Ultra 12/1TB Gray S928B/DS🇦🇪",
+        "price": 128000,
+        "new_price": 130000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 697,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇦🇪Z  FOLD 6 256  Silver",
+        "price": 129000,
+        "new_price": 131000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 698,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇲🇾ZFold 6 512 Silver -",
+        "price": 141000,
+        "new_price": 143000,
+        "description": "",
+        "photo": ""
+    },
+    {
+        "_id": 699,
+        "category": "Andrioid",
+        "postcategory": "Устройства Sumsung",
+        "name": "Sumsung 🇪🇺ZFold 6 1 TB  Silver -",
+        "price": 171000,
+        "new_price": 173000,
+        "description": "",
+        "photo": ""
+    }
+]
